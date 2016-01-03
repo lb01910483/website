@@ -647,6 +647,11 @@ input.search-form:hover {
   color: #fff;
 }
 
+.recent-work-wrap:hover .overlay {
+  opacity: 1;
+}
+
+
 
 
 #services {
